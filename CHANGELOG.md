@@ -1,5 +1,6 @@
 # 0.6.0
 - Attempting to implement CI/CD
+- Seeing if I can trigger a build
 
 # 0.5.0
 - Added authorization utilizing Parse
