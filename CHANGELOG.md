@@ -1,3 +1,6 @@
+# 0.6.0
+- Attempting to implement CI/CD
+
 # 0.5.0
 - Added authorization utilizing Parse
 - When trying to access pages that allow the changing of data, like Puzzle 2, the user will not be allowed to access the page unless logged in
