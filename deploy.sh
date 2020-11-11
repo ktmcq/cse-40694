@@ -1,5 +1,5 @@
-cd /var/www/the-hunt.katie-mchugh.com/html
+cd /var/www/dev.the-hunt.katie-mchugh.com/html
 git fetch --all
-git reset --hard origin/master
+git reset --hard origin/dev
 npm install
 npm start
