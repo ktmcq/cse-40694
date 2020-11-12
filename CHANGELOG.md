@@ -1,6 +1,8 @@
 # 0.6.0
-- Attempting to implement CI/CD
-- Seeing if I can trigger a build
+- Utilized SemaphoreCI to implement continuous integration of the dev (development) branch
+- Utilized SemaphoreCI to implement continuous integration of the master (production) branch
+- Utilized SemaphoreCI, Nginx, and DigitalOcean to implement continuous deployment of the dev (development) branch onto the development server
+- Utilized SemaphoreCI, Nginx, and DigitalOcean to implement continuous deployment of the master (production) branch onto the production server
 
 # 0.5.0
 - Added authorization utilizing Parse
