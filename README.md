@@ -3,4 +3,4 @@
 - [production site](the-hunt.katie-mchugh.com)
 
 # About the site
-This web application is a virtual version of an...
+This web application is a virtual version of an escape room. Once signed into your account, solve your way through the puzzles in order to find the hidden treasure!
